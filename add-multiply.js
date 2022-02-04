@@ -4,10 +4,10 @@ function add(num1, num2){
 }
 
 const firstTotal = add(63, 67);
-//console.log(firstTotal);
+console.log(firstTotal);
 
 const secondTotal = add(54, 981);
-//console.log(secondTotal);
+console.log(secondTotal);
 
 
 function multiply(num1, num2){
